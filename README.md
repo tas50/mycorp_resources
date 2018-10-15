@@ -1,4 +1,3 @@
 # mycorp_resources
 
-TODO: Enter the cookbook description here.
-
+A cookbook containing resources specific to MyCorp.
